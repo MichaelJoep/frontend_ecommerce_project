@@ -1,0 +1,166 @@
+{
+    "products": [
+        {
+            "title": "Men Office Shoe",
+            "price": "2,000.99",
+            "image": "../images/menshoe_1.jpg",
+            "category": "trend"
+        },
+        {
+            "title": "Men Office Shoe",
+            "price": "2,500.99",
+            "image": "../images/menshoe_2.jpg",
+            "category": "featured"
+        },
+        {
+            "title": "Men Office Shoe",
+            "price": "1,500.58",
+            "image": "../images/menshoe_3.jpg",
+            "category": "trend"
+        },
+        {
+            "title": "Men Office Shoe",
+            "price": "3,000.01",
+            "image": "../images/menshoe_4.jpg",
+            "category": "featured"
+        },
+        {
+            "title": "Men Office Shoe",
+            "price": "2,000.99",
+            "image": "../images/menshoe_5.jpg",
+            "category": "featured"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "4,000",
+            "image": "../images/menoffice_1.jpg",
+            "category": "special"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "2,000.99",
+            "image": "../images/menoffice_2.jpg",
+            "category": "special"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "1,300.01",
+            "image": "../images/menoffice_3.jpg",
+            "category":"special"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "2,500.99",
+            "image": "../images/menoffice_4.jpg",
+            "category": "featured"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "2,300.40",
+            "image": "../images/menoffice_5.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "5,500.40",
+            "image": "../images/menoffice_6.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Men Office Wear",
+            "price": "1,300.40",
+            "image": "../images/menoffice_7.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "2,100.40",
+            "image": "../images/shoe_1.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "2,200.10",
+            "image": "../images/shoe_2.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "1,500.40",
+            "image": "../images/shoe_3.jpg",
+            "category": "special"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "2,200.55",
+            "image": "../images/shoe_4.jpg",
+            "category": "trend"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "1,400.00",
+            "image": "../images/shoe_5.jpg",
+            "category": "trend"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "2,100.40",
+            "image": "../images/shoe_6.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Women Office Shoe",
+            "price": "2,100.40",
+            "image": "../images/shoe_7.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "2,100.40",
+            "image": "../images/woman_1.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "2,000.40",
+            "image": "../images/women_2.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "1,000.40",
+            "image": "../images/women_3.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "1,500.30",
+            "image": "../images/women_4.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "1,300.00",
+            "image": "../images/women_5.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "1,200.00",
+            "image": "../images/women_6.jpg",
+            "category": "latest"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "2,100.00",
+            "image": "../images/women_7.jpg",
+            "category": "recent"
+        },
+        {
+            "title": "Women Office Wear",
+            "price": "2,100.00",
+            "image": "../images/women_8.jpg",
+            "category": "recent"
+        }
+    ]
+}
